@@ -2,9 +2,9 @@ package week05;
 
 public class Card {
 
-	private String name;
-	private String suit;
-	private int value;
+	public String name;
+	public String suit;
+	public int value;
 
 	public Card() {}
 
